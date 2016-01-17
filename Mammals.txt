@@ -2,3 +2,4 @@ Boar_Chris
 Dog_Ben
 Dolphin_Matt
 Panda_Miriam
+Winnie the Pooh_Chris
