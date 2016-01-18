@@ -11,3 +11,7 @@ Robin_Ben
 Dog_Ben
 Snake_Ben
 Guppy_Ben
+Megpie_Miriam
+Panda_Miriam
+Turtle_Miriam
+Sardine_Miriam
