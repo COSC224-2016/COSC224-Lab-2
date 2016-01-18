@@ -1,2 +1,4 @@
 Boar_Chris
+Dog_Ben
 Dolphin_Matt
+Panda_Miriam
